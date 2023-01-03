@@ -57,7 +57,7 @@ gem "omniauth-oauth2", "~> 1.6"
 
 gem "omniauth-rails_csrf_protection", "~> 0.1.2"
 
-gem "httparty", "~> 0.18.0"
+gem "httparty", "~> 0.21.0"
 
 gem "nokogiri", "~> 1.10"
 
